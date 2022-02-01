@@ -11,6 +11,29 @@
 		53DD4B3E27A716E200AB78F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B3D27A716E200AB78F0 /* ContentView.swift */; };
 		53DD4B4027A716E300AB78F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53DD4B3F27A716E300AB78F0 /* Assets.xcassets */; };
 		53DD4B4327A716E300AB78F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53DD4B4227A716E300AB78F0 /* Preview Assets.xcassets */; };
+		53DD4B4A27A71A3700AB78F0 /* Page1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B4927A71A3700AB78F0 /* Page1.swift */; };
+		53DD4B4C27A7218B00AB78F0 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B4B27A7218A00AB78F0 /* Utilities.swift */; };
+		53DD4B5027A72E1800AB78F0 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B4F27A72E1800AB78F0 /* Word.swift */; };
+		53DD4B5327A731BF00AB78F0 /* Adjectives.txt in Resources */ = {isa = PBXBuildFile; fileRef = 53DD4B5227A731BF00AB78F0 /* Adjectives.txt */; };
+		53DD4B5527A7338A00AB78F0 /* Nouns.txt in Resources */ = {isa = PBXBuildFile; fileRef = 53DD4B5427A7338A00AB78F0 /* Nouns.txt */; };
+		53DD4B5727A736E000AB78F0 /* Adverbs.txt in Resources */ = {isa = PBXBuildFile; fileRef = 53DD4B5627A736E000AB78F0 /* Adverbs.txt */; };
+		53DD4B5927A7400F00AB78F0 /* Page2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B5827A7400F00AB78F0 /* Page2.swift */; };
+		53DD4B5B27A7409500AB78F0 /* Page3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B5A27A7409500AB78F0 /* Page3.swift */; };
+		53DD4B5D27A74EE800AB78F0 /* PirateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B5C27A74EE800AB78F0 /* PirateView.swift */; };
+		53DD4B5F27A7517300AB78F0 /* Page4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B5E27A7517300AB78F0 /* Page4.swift */; };
+		53DD4B6127A7517F00AB78F0 /* Page5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B6027A7517F00AB78F0 /* Page5.swift */; };
+		53DD4B6327A7519800AB78F0 /* Page6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B6227A7519800AB78F0 /* Page6.swift */; };
+		53DD4B6527A752E200AB78F0 /* Page7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B6427A752E200AB78F0 /* Page7.swift */; };
+		53DD4B6727A752E800AB78F0 /* Page8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B6627A752E800AB78F0 /* Page8.swift */; };
+		53DD4B6927A752F200AB78F0 /* Page9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B6827A752F200AB78F0 /* Page9.swift */; };
+		53DD4B6D27A7554700AB78F0 /* Page11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B6C27A7554700AB78F0 /* Page11.swift */; };
+		53DD4B6F27A7554E00AB78F0 /* Page12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B6E27A7554E00AB78F0 /* Page12.swift */; };
+		53DD4B7127A7566C00AB78F0 /* Page13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B7027A7566C00AB78F0 /* Page13.swift */; };
+		53DD4B7327A7567100AB78F0 /* Page14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B7227A7567100AB78F0 /* Page14.swift */; };
+		53DD4B7727A7568000AB78F0 /* Page15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B7627A7568000AB78F0 /* Page15.swift */; };
+		53DD4B7927A7568700AB78F0 /* Page16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B7827A7568700AB78F0 /* Page16.swift */; };
+		53DD4B8127A774C100AB78F0 /* Page17.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B8027A774C100AB78F0 /* Page17.swift */; };
+		53DD4B8527A8D12000AB78F0 /* Page10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DD4B8427A8D12000AB78F0 /* Page10.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +42,29 @@
 		53DD4B3D27A716E200AB78F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		53DD4B3F27A716E300AB78F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		53DD4B4227A716E300AB78F0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		53DD4B4927A71A3700AB78F0 /* Page1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page1.swift; sourceTree = "<group>"; };
+		53DD4B4B27A7218A00AB78F0 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		53DD4B4F27A72E1800AB78F0 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
+		53DD4B5227A731BF00AB78F0 /* Adjectives.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Adjectives.txt; sourceTree = "<group>"; };
+		53DD4B5427A7338A00AB78F0 /* Nouns.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Nouns.txt; sourceTree = "<group>"; };
+		53DD4B5627A736E000AB78F0 /* Adverbs.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Adverbs.txt; sourceTree = "<group>"; };
+		53DD4B5827A7400F00AB78F0 /* Page2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2.swift; sourceTree = "<group>"; };
+		53DD4B5A27A7409500AB78F0 /* Page3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page3.swift; sourceTree = "<group>"; };
+		53DD4B5C27A74EE800AB78F0 /* PirateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PirateView.swift; sourceTree = "<group>"; };
+		53DD4B5E27A7517300AB78F0 /* Page4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page4.swift; sourceTree = "<group>"; };
+		53DD4B6027A7517F00AB78F0 /* Page5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page5.swift; sourceTree = "<group>"; };
+		53DD4B6227A7519800AB78F0 /* Page6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page6.swift; sourceTree = "<group>"; };
+		53DD4B6427A752E200AB78F0 /* Page7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page7.swift; sourceTree = "<group>"; };
+		53DD4B6627A752E800AB78F0 /* Page8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page8.swift; sourceTree = "<group>"; };
+		53DD4B6827A752F200AB78F0 /* Page9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page9.swift; sourceTree = "<group>"; };
+		53DD4B6C27A7554700AB78F0 /* Page11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page11.swift; sourceTree = "<group>"; };
+		53DD4B6E27A7554E00AB78F0 /* Page12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page12.swift; sourceTree = "<group>"; };
+		53DD4B7027A7566C00AB78F0 /* Page13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page13.swift; sourceTree = "<group>"; };
+		53DD4B7227A7567100AB78F0 /* Page14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page14.swift; sourceTree = "<group>"; };
+		53DD4B7627A7568000AB78F0 /* Page15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page15.swift; sourceTree = "<group>"; };
+		53DD4B7827A7568700AB78F0 /* Page16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page16.swift; sourceTree = "<group>"; };
+		53DD4B8027A774C100AB78F0 /* Page17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page17.swift; sourceTree = "<group>"; };
+		53DD4B8427A8D12000AB78F0 /* Page10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page10.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +81,9 @@
 		53DD4B2F27A716E200AB78F0 = {
 			isa = PBXGroup;
 			children = (
+				53DD4B5427A7338A00AB78F0 /* Nouns.txt */,
+				53DD4B5627A736E000AB78F0 /* Adverbs.txt */,
+				53DD4B5227A731BF00AB78F0 /* Adjectives.txt */,
 				53DD4B3A27A716E200AB78F0 /* MadLib1 */,
 				53DD4B3927A716E200AB78F0 /* Products */,
 			);
@@ -51,10 +100,30 @@
 		53DD4B3A27A716E200AB78F0 /* MadLib1 */ = {
 			isa = PBXGroup;
 			children = (
+				53DD4B5C27A74EE800AB78F0 /* PirateView.swift */,
+				53DD4B4927A71A3700AB78F0 /* Page1.swift */,
+				53DD4B5827A7400F00AB78F0 /* Page2.swift */,
+				53DD4B5A27A7409500AB78F0 /* Page3.swift */,
+				53DD4B5E27A7517300AB78F0 /* Page4.swift */,
+				53DD4B6027A7517F00AB78F0 /* Page5.swift */,
+				53DD4B6227A7519800AB78F0 /* Page6.swift */,
+				53DD4B6427A752E200AB78F0 /* Page7.swift */,
+				53DD4B6627A752E800AB78F0 /* Page8.swift */,
+				53DD4B6827A752F200AB78F0 /* Page9.swift */,
+				53DD4B8427A8D12000AB78F0 /* Page10.swift */,
+				53DD4B6C27A7554700AB78F0 /* Page11.swift */,
+				53DD4B6E27A7554E00AB78F0 /* Page12.swift */,
+				53DD4B7027A7566C00AB78F0 /* Page13.swift */,
+				53DD4B7227A7567100AB78F0 /* Page14.swift */,
+				53DD4B7627A7568000AB78F0 /* Page15.swift */,
+				53DD4B7827A7568700AB78F0 /* Page16.swift */,
+				53DD4B8027A774C100AB78F0 /* Page17.swift */,
 				53DD4B3B27A716E200AB78F0 /* MadLib1App.swift */,
 				53DD4B3D27A716E200AB78F0 /* ContentView.swift */,
 				53DD4B3F27A716E300AB78F0 /* Assets.xcassets */,
 				53DD4B4127A716E300AB78F0 /* Preview Content */,
+				53DD4B4B27A7218A00AB78F0 /* Utilities.swift */,
+				53DD4B4F27A72E1800AB78F0 /* Word.swift */,
 			);
 			path = MadLib1;
 			sourceTree = "<group>";
@@ -126,6 +195,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				53DD4B4327A716E300AB78F0 /* Preview Assets.xcassets in Resources */,
+				53DD4B5327A731BF00AB78F0 /* Adjectives.txt in Resources */,
+				53DD4B5527A7338A00AB78F0 /* Nouns.txt in Resources */,
+				53DD4B5727A736E000AB78F0 /* Adverbs.txt in Resources */,
 				53DD4B4027A716E300AB78F0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +209,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53DD4B6727A752E800AB78F0 /* Page8.swift in Sources */,
 				53DD4B3E27A716E200AB78F0 /* ContentView.swift in Sources */,
 				53DD4B3C27A716E200AB78F0 /* MadLib1App.swift in Sources */,
+				53DD4B5F27A7517300AB78F0 /* Page4.swift in Sources */,
+				53DD4B4C27A7218B00AB78F0 /* Utilities.swift in Sources */,
+				53DD4B8527A8D12000AB78F0 /* Page10.swift in Sources */,
+				53DD4B5D27A74EE800AB78F0 /* PirateView.swift in Sources */,
+				53DD4B6D27A7554700AB78F0 /* Page11.swift in Sources */,
+				53DD4B7927A7568700AB78F0 /* Page16.swift in Sources */,
+				53DD4B5B27A7409500AB78F0 /* Page3.swift in Sources */,
+				53DD4B6127A7517F00AB78F0 /* Page5.swift in Sources */,
+				53DD4B4A27A71A3700AB78F0 /* Page1.swift in Sources */,
+				53DD4B5027A72E1800AB78F0 /* Word.swift in Sources */,
+				53DD4B6927A752F200AB78F0 /* Page9.swift in Sources */,
+				53DD4B7327A7567100AB78F0 /* Page14.swift in Sources */,
+				53DD4B5927A7400F00AB78F0 /* Page2.swift in Sources */,
+				53DD4B7127A7566C00AB78F0 /* Page13.swift in Sources */,
+				53DD4B6F27A7554E00AB78F0 /* Page12.swift in Sources */,
+				53DD4B6527A752E200AB78F0 /* Page7.swift in Sources */,
+				53DD4B6327A7519800AB78F0 /* Page6.swift in Sources */,
+				53DD4B7727A7568000AB78F0 /* Page15.swift in Sources */,
+				53DD4B8127A774C100AB78F0 /* Page17.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
